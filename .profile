@@ -1,10 +1,5 @@
 export NODE_ENV="development"
 
-alias jload='sudo launchctl load /Library/LaunchDaemons/org.jenkins-ci.plist'
-alias junload='sudo launchctl unload /Library/LaunchDaemons/org.jenkins-ci.plist'
-
-alias sshcars='ssh -p XfT7BKyWKdTD root@134.213.30.216'
-
 alias gs='git status '
 alias ga='git add '
 alias gb='git branch '
